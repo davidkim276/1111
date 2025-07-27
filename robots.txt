@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://davidkim276.github.io/1111/sitemap-index.xml
